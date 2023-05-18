@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Poppins:wght@300;400&family=Roboto&family=Ubuntu&family=Varela+Round&display=swap');
+
+html,body{
+    margin: 0;
+    padding: 0;
+    background-color: #212121;
+    font-family: 'Ubuntu', sans-serif;
+    color: whitesmoke;
+}
+
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid white;
+     
+}
+h2{
+     margin-right: 30px;
+}
+.logo{
+    width: 150px;
+    
+}
+
+
+.body{
+    margin-left: 50px;
+   
+   
+}
+h1{
+    text-shadow: 2px 2px 4px black;
+}
+
+span{
+    font-weight: bold;
+    display: block;
+    color: white;
+    font-size: 22px;
+    margin-bottom: 2px ;
+    
+}
+
+li{
+    line-height: 32px;
+    font-size: 20px
+   
+}
+
+.facts>li::marker{
+    font-size: 1.4em;
+    color:#61DAFB;
+    
+    
+}
+
+footer{
+    text-align: center;
+    font-size: 1.3rem;
+    margin-top:20px;
+}
+
+
+
+    
