@@ -1,3 +1,3 @@
 # React-Static-page
 
-View = https://reactstaticpage2.netlify.app/
+ViewSite = https://reactstaticpage2.netlify.app/
